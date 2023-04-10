@@ -23,3 +23,8 @@ apt install python -y
 
 apt install curl -y
 
+git clone https://github.com/CrashedError404/Hacking-Tools
+
+cd Hacking-Tools/
+
+python install.py
