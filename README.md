@@ -12,3 +12,14 @@ All hacking tools in one script
 • Wifi Hacking
 
 All types of hacking tools available in one script.
+
+INSTALLATION-
+
+apt update -y
+
+apt upgrade -y
+
+apt install python -y
+
+apt install curl -y
+
